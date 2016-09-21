@@ -259,7 +259,7 @@ h1, h2, h3, h4, h5, h6 {
 	z-index:1;
 	left:0;
 	bottom:0;
-	background-image:url(../images/home-pattern.png);
+	background-image:url(http://7xk2g7.com1.z0.glb.clouddn.com/infortrans/images/home-pattern.png);
 	background-repeat:repeat;
 	opacity:0.2;
 }
@@ -558,7 +558,7 @@ h1, h2, h3, h4, h5, h6 {
 ======================*/
 
 #services {
-  background-image: url("../images/services/service-bg.jpg");
+  background-image: url("http://7xk2g7.com1.z0.glb.clouddn.com/infortrans/images/services/service-bg.jpg");
   color:#fff;
   text-align:center;
   background-color:	#0A0A13;
@@ -896,7 +896,7 @@ h1, h2, h3, h4, h5, h6 {
 ======================*/
 
 #clients{
-	background-image: url("../images/clients/client-bg.jpg");
+	background-image: url("http://7xk2g7.com1.z0.glb.clouddn.com/infortrans/images/clients/client-bg.jpg");
 	background-color:#0A0A13;
 }
 
@@ -1146,7 +1146,7 @@ h1, h2, h3, h4, h5, h6 {
 	z-index:1;
 	left:0;
 	bottom:0;
-	background-image:url(../images/pattern.png);
+	background-image:url(http://7xk2g7.com1.z0.glb.clouddn.com/infortrans/images/pattern.png);
 	background-repeat:repeat;
 	opacity:0.2;
 }
